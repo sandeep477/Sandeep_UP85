@@ -1,25 +1,27 @@
 # Sandeep_UP85
-<u>#Hey 👋, I'm Sandeep upadhyay!</u>
+##Hey 👋, I'm Sandeep upadhyay!
 
 
-Welcome to my GitHub profile! I'm Sandeep Upadhyay, a passionate software developer with a love for creating innovative solutions.
+Welcome to my GitHub profile! I'm Sandeep Upadhyay
+
+a passionate software developer with a love for creating innovative solutions.
 <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Funny GIF" align="right" style="margin-left: 20px;">
 
--🧐 More About Me:
+🧐 More About Me:
 
--🔭   I'm proficient in MEAN Stack | C++ |OOPS and have experience in 2 years.
+🔭   I'm proficient in MEAN Stack | C++ |OOPS and have experience in 2 years.
 
--📫   How to reach me , you can email me at sandeepupadhyay1101999@gmail.com
+📫   How to reach me , you can email me at sandeepupadhyay1101999@gmail.com
 
--💻   I am actively looking for jobs for the role of SDE.
+💻   I am actively looking for jobs for the role of SDE.
 
--💬   Ask me about anything tech related, I am happy to help;
+💬   Ask me about anything tech related, I am happy to help;
 
--📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sandeep-upadhyay-007/)
+📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sandeep-upadhyay-007/)
 
--📝   Checkout my [resume](https://drive.google.com/file/d/1FsC-uTupPMFHa5JboFu1ej6adLEaomQC/view?usp=sharing)
+📝   Checkout my [resume](https://drive.google.com/file/d/1FsC-uTupPMFHa5JboFu1ej6adLEaomQC/view?usp=sharing)
 
--🔭 I'm working on infosys Client projects and Data Structure & Algorithm to solve interesting problems .
+🔭 I'm working on infosys Client projects and Data Structure & Algorithm to solve interesting problems .
    
  -  I love practicing 🧘‍♂️ yoga to relax and unwind.
 
