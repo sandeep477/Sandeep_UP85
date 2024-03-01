@@ -9,7 +9,7 @@ a passionate software developer with a love for creating innovative solutions.
 
 🧐 More About Me:
 
-🔭   I'm proficient in MEAN Stack | C++ |OOPS and have experience in 2 years.
+🔭   I'm proficient in MEAN Stack | C++ |OOPS and have experience of 2 years.
 
 📫   How to reach me , you can email me at sandeepupadhyay1101999@gmail.com
 
