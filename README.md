@@ -1,5 +1,5 @@
 # Sandeep_UP85
-##Hey 👋, I'm Sandeep upadhyay!
+## Hey 👋, I'm Sandeep upadhyay!
 
 
 Welcome to my GitHub profile! I'm Sandeep Upadhyay
