@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Sandeep Upadhyay
 
 a passionate software developer with a love for creating innovative solutions.
 <div style="overflow: auto">
-<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Funny GIF"  align="right" style="width:90%; float:right; margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Funny GIF"  align="right" style="width:40%; float:right; margin-left: 20px;">
 
 🧐 More About Me:
 
