@@ -5,7 +5,8 @@
 Welcome to my GitHub profile! I'm Sandeep Upadhyay
 
 a passionate software developer with a love for creating innovative solutions.
-<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Funny GIF" align="right" style="margin-left: 20px;">
+<div style="overflow: auto">
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Funny GIF"  style="float:right;margin-left: 20px;">
 
 🧐 More About Me:
 
@@ -24,5 +25,6 @@ a passionate software developer with a love for creating innovative solutions.
 🔭 I'm working on infosys Client projects and Data Structure & Algorithm to solve interesting problems .
    
  -  I love practicing 🧘‍♂️ yoga to relax and unwind.
+</div>
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Funny GIF" style="width:100%">
